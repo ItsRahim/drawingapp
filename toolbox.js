@@ -70,3 +70,4 @@ function Toolbox() {
     }
   };
 }
+(keyIsPressed && (key === "f" || key === "F") && mouseIsPressed && mouseButton === LEFT)
